@@ -1,0 +1,80 @@
+.content {
+    width: 350px;
+    height: 420px;
+    background-color: darkslateblue;
+    border-radius: 20px;
+    border: 2px double greenyellow;
+}
+
+img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: 2px double greenyellow;
+}
+
+h1 {
+    color: white;
+}
+
+.profile {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.current {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about {
+    text-align: center;
+}
+
+.connect {
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(186, 216, 142);
+}
+
+
+
+.buttons {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    color:greenyellow;
+    background-color: darkslateblue;
+    border-radius: 20px;
+    border: 2px double greenyellow;
+}
+
+button:hover {
+    color: gold;
+    border: 2px double gold;
+}
+
+p {
+    color: rgb(167, 210, 212);
+}
+body {
+    background-color: rgb(84, 14, 176);
+}
+
+.outer {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
