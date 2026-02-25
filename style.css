@@ -1,20 +1,20 @@
 .content {
-    width: 350px;
-    height: 420px;
-    background-color: darkslateblue;
+    width: 380px;
+    height: 500px;
+    background-color: #1e293b;
     border-radius: 20px;
-    border: 2px double greenyellow;
+    border: 2px double #38bdf8;
 }
 
 img {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    border: 2px double greenyellow;
+    border: 2px double #38bdf8;
 }
 
 h1 {
-    color: white;
+    color: #f8fafc;
 }
 
 .profile {
@@ -41,7 +41,7 @@ h1 {
 .connect {
     text-align: center;
     margin-top: 40px;
-    color: rgb(186, 216, 142);
+    color: #38bdf8;
 }
 
 
@@ -53,23 +53,27 @@ h1 {
     justify-content: center;
 }
 
+.desc {
+    color: #cbd5e1;
+}
+
 button {
-    color:greenyellow;
-    background-color: darkslateblue;
+    color:#38bdf8;
+    background-color: #1e293b;
     border-radius: 20px;
-    border: 2px double greenyellow;
+    border: 2px double #38bdf8;
 }
 
 button:hover {
-    color: gold;
-    border: 2px double gold;
+    background-color: #38bdf8;
+    color: #0f172a;
 }
 
 p {
-    color: rgb(167, 210, 212);
+    color: #94a3b8;
 }
 body {
-    background-color: rgb(84, 14, 176);
+    background-color: #0f172a;
 }
 
 .outer {
