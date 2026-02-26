@@ -4,6 +4,7 @@
     background-color: #1e293b;
     border-radius: 20px;
     border: 2px double #38bdf8;
+    box-shadow: 0 0 15px rgba(56, 189, 248, 0.6);
 }
 
 img {
