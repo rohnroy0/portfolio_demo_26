@@ -7,7 +7,7 @@
     box-shadow: 0 0 15px rgba(56, 189, 248, 0.6);
 }
 
-img {
+.profile_image {
     border-radius: 50%;
     width: 80px;
     height: 80px;
@@ -89,7 +89,7 @@ body {
 
 .p1,.p2 {
     margin-top: 60px;
-    width: 250px;
+    width: 350px;
     height: 250px;
     border: 2px double #38bdf8;
 }
@@ -129,4 +129,43 @@ body {
 
 .current {
     width: 350px;
+}
+
+.image_project {
+    width: 350px;
+    height: 250px
+   
+}   
+
+.image1,.image2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.heading_pro {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1_pro {
+    color: #94a3b8;
+}
+
+.image1_box,.image2_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image1_para,.image2_para {
+    width: 400px;
+}
+
+p {
+    text-align: center;
 }
