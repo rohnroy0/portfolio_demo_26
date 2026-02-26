@@ -1,9 +1,10 @@
 .content {
     width: 380px;
-    height: 500px;
+    height: 510px;
     background-color: #1e293b;
     border-radius: 20px;
     border: 2px double #38bdf8;
+    box-shadow: 0 0 15px rgba(56, 189, 248, 0.6);
 }
 
 img {
@@ -83,6 +84,7 @@ body {
     align-items: center;
     justify-content: center;
 }
+<<<<<<< HEAD
 
 
 .p1,.p2 {
@@ -106,3 +108,5 @@ body {
 .p2:hover {
     box-shadow: 0 0 15px rgba(56, 189, 248, 0.6);
 }
+=======
+>>>>>>> 3ca35493bbc11b9613bedd0529c1544a211c8861
