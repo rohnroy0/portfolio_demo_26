@@ -108,3 +108,15 @@ body {
 .p2:hover {
     box-shadow: 0 0 15px rgba(56, 189, 248, 0.6);
 }
+
+
+.about {
+    width : 350px;
+    
+}
+
+.out_about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
